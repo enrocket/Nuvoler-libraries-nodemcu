@@ -1,5 +1,5 @@
 # Ardubridge library for Arduino / NodeMcu-ESP8266
- [Ardubridge](https://www.ardubridge.com/) serves as a connection link between your weather station and popular weather web platforms, enabling easy sharing and display of meteorological data online
+ [Nuvoler](https://www.nuvoler.com/) serves as a connection link between your weather station and popular weather web platforms, enabling easy sharing and display of meteorological data online
 
 This repository contains a **library for Arduino** and example code for its use, specific for **NodeMCU-ESP8266 boards**.
 
